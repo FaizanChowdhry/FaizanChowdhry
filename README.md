@@ -13,6 +13,8 @@
 ⚡ Optimize legacy systems for performance and scalability
 📦 Deliver end-to-end solutions from requirements to deployment
 
+💡 Tech Philosophy
+I believe in building scalable, maintainable systems that empower teams and deliver real business value.
 
 🏅 Certifications
 Microsoft Certified: Azure Fundamentals
