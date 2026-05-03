@@ -20,6 +20,6 @@ Payment Gateway Integration Specialist
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FaizanChowdhry&show_icons=true&theme=radical" alt="Faizan's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanChowdhry&layout=compact&theme=radical" alt="Top Languages" /> </p>
 
 🌐 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/faizanchowdhry/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:faizanchowdhry@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/faizanchowdhry"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/faizanchowdhry/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:chowdhary.faizan60@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/faizan_chowdhry"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
 
 <p align="center"><i>"Striving for excellence in every line of code."</i></p>
