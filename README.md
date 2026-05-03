@@ -16,8 +16,13 @@ Microsoft Certified: Azure Fundamentals
 Microsoft Certified: .NET Developer
 Scrum Fundamentals Certified (SFC)
 Payment Gateway Integration Specialist
+
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FaizanChowdhry&show_icons=true&theme=radical" alt="Faizan's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanChowdhry&layout=compact&theme=radical" alt="Top Languages" /> </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FaizanChowdhry&show_icons=true&theme=radical" alt="Faizan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanChowdhry&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 🌐 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/faizanchowdhry/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:chowdhary.faizan60@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/faizan_chowdhry"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
