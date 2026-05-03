@@ -41,8 +41,6 @@ Payment Gateway Integration Specialist
 💡 Tech Philosophy
 I believe in building scalable, maintainable systems that empower teams and deliver real business value.
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FaizanChowdhry&show_icons=true&theme=radical" alt="Faizan's GitHub stats" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanChowdhry&layout=compact&theme=radical" alt="Top Languages" height="165"/> </p>
 
 🌐 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/faizanchowdhry/"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:faizanchowdhry@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/faizanchowdhry"> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
