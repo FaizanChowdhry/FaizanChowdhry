@@ -12,27 +12,7 @@
 👥 Lead cross-functional teams and mentor developers
 ⚡ Optimize legacy systems for performance and scalability
 📦 Deliver end-to-end solutions from requirements to deployment
-🚩 Featured Projects
-Payment Gateway Integration Suite
-Designed and led the development of a modular payment gateway integration platform used by multiple enterprise clients.
 
-Legacy System Modernization
-Architected and migrated a monolithic VB.NET system to a scalable .NET Core microservices architecture, improving performance by 40%.
-
-Team Mentorship Portal
-Built and mentored a team to deliver a knowledge-sharing platform, fostering cross-team collaboration.
-
-🏢 Experience
-System Architect
-ABC Solutions (2022–Present)
-
-Led architecture for enterprise payment systems, handling 1M+ transactions/month.
-Mentored a team of 8 developers and analysts.
-Senior Software Engineer
-XYZ Tech (2018–2022)
-
-Modernized legacy systems, reducing downtime by 30%.
-Integrated third-party APIs for financial services.
 🏅 Certifications
 Microsoft Certified: Azure Fundamentals
 Microsoft Certified: .NET Developer
