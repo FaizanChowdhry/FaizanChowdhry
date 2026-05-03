@@ -25,7 +25,7 @@ Payment Gateway Integration Specialist
 I believe in building scalable, maintainable systems that empower teams and deliver real business value.
 
 
-🌐 Connect with Me
+<p align="center">🌐 Connect with Me </p>
 <p align="center"> <a href="https://www.linkedin.com/in/faizan-chowdhry-24a504125/"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:chowdhary.faizan60@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/faizan_chowdhry"> <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
 
 <p align="center"><i>"Striving for excellence in every line of code."</i></p>
