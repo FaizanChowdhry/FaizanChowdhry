@@ -3,15 +3,16 @@
 
 <p align="center"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
 
-👨‍💻 About Me
-🏆 7+ years of experience in software development
-🏗️ Specialized in .NET, Payment Gateway Integrations, and Solution Architecture
-🧩 Strong analytical, problem-solving, and leadership skills
-🚀 Architect and implement enterprise-grade applications
-🔗 Integrate payment gateways and third-party APIs
-👥 Lead cross-functional teams and mentor developers
-⚡ Optimize legacy systems for performance and scalability
-📦 Deliver end-to-end solutions from requirements to deployment
+👨‍💻 **About Me**  
+🏆 **7+ years of experience in software development**  
+🏗️ **Specialized in .NET, Payment Gateway Integrations, and Solution Architecture**  
+🧩 **Strong analytical, problem-solving, and leadership skills**  
+🚀 **Architect and implement enterprise-grade applications**  
+🔗 **Integrate payment gateways and third-party APIs**  
+👥 **Lead cross-functional teams and mentor developers**  
+⚡ **Optimize legacy systems for performance and scalability**  
+📦 **Deliver end-to-end solutions from requirements to deployment**
+
 
 🏅 Certifications
 Microsoft Certified: Azure Fundamentals
